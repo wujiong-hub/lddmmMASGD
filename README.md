@@ -57,7 +57,7 @@ template image:
 
 target image:  
 ![image](https://github.com/KwuJohn/lddmmMASGD/blob/master/Images/target.png)  
-
+<pre><code>
 Affine alignment  
 Step translation:  
 0.       -0.384558372825  
@@ -232,7 +232,7 @@ Step 2: alpha=0.002, scale=1.0, iteration=1000
 34.      6.59314e+08, 1.32984e+08, 5.2633e+08(57.3622%),         5.514098e-03   BLS-GD step  
 E = 6.59314e+08 (57.3622%)  
 Length = 3851.05  
-Time = 108.226s (1.80376m)  
+Time = 108.226s (1.80376m)   </code></pre>
 transformed template image:  
   
  
