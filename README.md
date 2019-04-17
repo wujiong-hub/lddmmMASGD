@@ -39,3 +39,11 @@ field OutputDisplacementFieldPath
 		  --MASGD  use MAS-GD optimisation  
 		  --verbose ]  </code></pre>
 
+Example:
+--------------------------------
+You can run the Example.py in your terminal to browse the registration performance.  
+
+```python 
+tar -zxvf ./data/template.tar.gz -C ./data/
+```
+
