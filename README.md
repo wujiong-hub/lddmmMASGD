@@ -44,6 +44,7 @@ Example:
 You can run the Example.py in your terminal to browse the registration performance.  
 
 ```python 
-tar -zxvf ./data/template.tar.gz -C ./data/
+tar -zxvf ./data/template.tar.gz -C ./data/  
+tar -zxvf ./dta/target.tar.gz -C ./data/
 ```
 
