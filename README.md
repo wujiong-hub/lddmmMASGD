@@ -52,4 +52,4 @@ tar -zxvf ./dta/target.tar.gz -C ./data/
 ```python
 python Example.py
 ```
-
+![image](https://github.com/KwuJohn/lddmmMASGD/blob/master/Images/template.png)
