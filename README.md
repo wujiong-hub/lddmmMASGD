@@ -6,7 +6,9 @@ Software Dependencies (with version numbers)
 --------------------------------------------------
 The main dependency External libraries: 
 1. Insight Segmentation and Registration Toolkit (ITK) -- 5.0
-2. CUDA Toolkit 8.0
+2. SimpleITK 
+3. CUDA Toolkit 8.0  
+4. NiBabel 2.4.0
 
 
 Sytem Requirements
