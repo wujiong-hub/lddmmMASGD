@@ -234,6 +234,6 @@ E = 6.59314e+08 (57.3622%)
 Length = 3851.05  
 Time = 108.226s (1.80376m)   </code></pre>
 transformed template image:  
-  
+![image](https://github.com/KwuJohn/lddmmMASGD/blob/master/Images/transformed.png)
  
 
