@@ -45,6 +45,11 @@ You can run the Example.py in your terminal to browse the registration performan
 
 ```python 
 tar -zxvf ./data/template.tar.gz -C ./data/  
+```
+```python
 tar -zxvf ./dta/target.tar.gz -C ./data/
+```
+```python
+python Example.py
 ```
 
