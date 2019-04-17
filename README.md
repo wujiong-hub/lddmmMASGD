@@ -11,7 +11,7 @@ The main dependency External libraries:
 
 Sytem Requirements
 -------------------------------------
-Ubuntu Xenial 16.04.3 LTS (with 64 GB RAM).
+Ubuntu Xenial 16.04.3 LTS (with 8 GB RAM and NVIDIA GPU).
 
 The lddmmMASGD is recommanded run after the histogram matching and affine registration.
 
