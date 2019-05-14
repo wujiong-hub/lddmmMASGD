@@ -45,6 +45,9 @@ Example:
 You can run the Example.py in your terminal to browse the registration performance.  
 
 ```python
+chmod -R 775 ./Bin/
+```
+```python
 python Example.py
 ```
 template image:  
