@@ -8,7 +8,6 @@ affine and lddmmMASGD registration.
 """
 
 from Bin.Registration import *
-from Bin.Evaluation import *
 from Bin.util import *
 
 inImgPath = './data/'
